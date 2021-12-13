@@ -2,15 +2,18 @@
 
 
 •	Developed with graphical user interface and suitable for Android/ iOS/ desktop (Windows/ macOS/ Linux) devices.
+
 •	Designed a log-in interface for logging in and signing up to register.
+
 •	Users express their food taste and push button to get some relevant aphorisms.
+
 •	Built based on Kivy, a third-party library for Python.
 
 
 #1 Initial interface:
 ![1](https://user-images.githubusercontent.com/61263191/145774115-2252145c-8d49-4f4a-a851-67cdaa20cf0c.jpg)
 
-
+************************************************************************************************************
 
 #2 Sign up page:
 ![2](https://user-images.githubusercontent.com/61263191/145774106-409cdb73-872f-42e5-ab2b-20b7a4d46fa2.jpg)
